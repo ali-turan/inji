@@ -1,6 +1,6 @@
 {
   "name": "inji",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Angular like dependency injection for nodejs",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "test"
+    "url": "https://github.com/ali-turan/inji"
   },
   "keywords": [
     "Dependency",
@@ -17,6 +17,5 @@
   "author": "alituran",
   "license": "ISC",
   "dependencies": {
-    "actanodeutils": "0.0.6"
   }
 }
