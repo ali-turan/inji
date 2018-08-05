@@ -1,0 +1,22 @@
+{
+  "name": "inji",
+  "version": "0.0.1",
+  "description": "Angular like dependency injection for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "Dependency",
+    "Injection"
+  ],
+  "author": "alituran",
+  "license": "ISC",
+  "dependencies": {
+    "actanodeutils": "0.0.6"
+  }
+}
