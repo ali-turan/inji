@@ -96,7 +96,7 @@ inji.invoke(["LogicFactory", function (LogicFactory){
 ```
 
 ```javascript
-// index.js
+// injections.js
 const inji = require("inji");
 var config = require('config.json')
 
